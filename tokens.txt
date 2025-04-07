@@ -1,7 +1,0 @@
-Enteros
-Flotantes (Reales)
-Operadores: Asignación, Suma, Resta, Multiplicación, División, Potencia
-Identificadores:
-Variables
-Símbolos especiales: ()
-Comentarios:// seguido de caracteres hasta que se acabe la línea (\n)
